@@ -1,8 +1,8 @@
 {
   "manifest": {
-    "id": "493a0528-c529-4a93-b36b-3305a1324154",
-    "createdAt": "2026-03-02T22:28:06.240Z",
-    "runtimeVersion": "3.1.0.0",
+    "id": "b509b6c7-dc65-412a-b707-a7c953cf09a3",
+    "createdAt": "2026-03-02T22:39:03.173Z",
+    "runtimeVersion": "3.1",
     "launchAsset": {
       "key": "index-f98caa9ef84c9458dbb0b17de3a049b5",
       "url": "https://teamshryne.github.io/mediyo-ota/_expo/static/js/android/index-f98caa9ef84c9458dbb0b17de3a049b5.hbc",
@@ -241,7 +241,7 @@
       "expoClient": {
         "name": "Mediyo",
         "slug": "auramusic",
-        "version": "3.1.0.0"
+        "version": "3.1"
       }
     }
   }
